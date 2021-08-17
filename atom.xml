@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hexo</title>
-  <icon>http://nicxzq.github.io/project/icon.png</icon>
+  <icon>https://nicxzq.github.io/icon.png</icon>
   
-  <link href="http://nicxzq.github.io/project/atom.xml" rel="self"/>
+  <link href="https://nicxzq.github.io/atom.xml" rel="self"/>
   
-  <link href="http://nicxzq.github.io/project/"/>
+  <link href="https://nicxzq.github.io/"/>
   <updated>2021-08-16T13:33:42.834Z</updated>
-  <id>http://nicxzq.github.io/project/</id>
+  <id>https://nicxzq.github.io/</id>
   
   <author>
     <name>Carl xu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://nicxzq.github.io/project/2021/08/16/hello-world/"/>
-    <id>http://nicxzq.github.io/project/2021/08/16/hello-world/</id>
+    <link href="https://nicxzq.github.io/2021/08/16/hello-world/"/>
+    <id>https://nicxzq.github.io/2021/08/16/hello-world/</id>
     <published>2021-08-16T13:33:42.834Z</published>
     <updated>2021-08-16T13:33:42.834Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title></title>
-    <link href="http://nicxzq.github.io/project/2021/08/16/20210816%20%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
-    <id>http://nicxzq.github.io/project/2021/08/16/20210816%20%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</id>
+    <link href="https://nicxzq.github.io/2021/08/16/20210816%20%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <id>https://nicxzq.github.io/2021/08/16/20210816%20%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</id>
     <published>2021-08-16T13:33:42.832Z</published>
     <updated>2021-08-16T13:33:42.832Z</updated>
     
